@@ -1,3 +1,5 @@
 Drew Beckmen
 
 September 19, 2016
+
+This is the second edition. Its in work for a release in early January. 
